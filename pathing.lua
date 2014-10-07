@@ -1,5 +1,6 @@
 --[[
-	Dota 2 Pathing Library
+	Dota 2 Custom Pathing Library
+	Interfaces an existing Lua game pathing library, Jumper (https://github.com/Yonaba/Jumper), with Dota 2.
 	Created by Myll. www.github.com/Myll
 ]]
 
