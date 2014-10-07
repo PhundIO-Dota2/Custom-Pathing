@@ -25,7 +25,7 @@
 			"RunScript"
 			{
 				"Target"				"POINT"
-				"ScriptFile"			"scripts/vscripts/abilities.lua"
+				"ScriptFile"			"scripts/vscripts/pathing_abilities.lua"
 				"Function"				"getMovePoint"
 			}
 
@@ -54,7 +54,7 @@
 			"RunScript"
 			{
 				"Target"				"POINT"
-				"ScriptFile"			"scripts/vscripts/abilities.lua"
+				"ScriptFile"			"scripts/vscripts/pathing_abilities.lua"
 				"Function"				"getClosedPoint"
 			}
 
