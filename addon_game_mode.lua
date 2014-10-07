@@ -3,7 +3,7 @@
 
 -- module_loader by Adynathos.
 BASE_MODULES = {
-	'timers', 'abilities',
+	'timers', 'pathing_abilities',
 
 	'jumper/core/heuristics',
 	'jumper/core/node', 'jumper/core/path',
