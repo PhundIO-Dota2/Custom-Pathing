@@ -3,10 +3,7 @@
 
 -- module_loader by Adynathos.
 BASE_MODULES = {
-	'util/print', 'util/print_table',
-	'timers', 'physics', 'ballphysics',
-	'eventtest', 'pathing',
-	'banjoball', 'abilities',
+	'timers', 'abilities',
 
 	'jumper/core/heuristics',
 	'jumper/core/node', 'jumper/core/path',
