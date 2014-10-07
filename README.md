@@ -14,7 +14,7 @@ Dota 2 Custom Pathing Library
 1. Put everything in your vscripts folder.
 2. Merge the code in ```addon_game_mode.lua``` with your own ```addon_game_mode.lua```.
 3. Call **Pathing:Setup(nMapLength)** in your InitGameMode function, where nMapLength is the length of one side of your square-shaped map. If you're using the tile editor, it will be 16384.
-4. Merge the code in ```npc_abilities_custom.txt``` with your own ```npc_abilities_custom.txt```.
+4. Merge ```npc_abilities_custom.txt``` with your own ```npc_abilities_custom.txt```.
 5. If you want a unit to use custom pathing:
   1. Call **Pathing:AddUnit(unit)** anywhere.
   2. Give it the "moveunit" ability. Cast the ability on locations to move the unit.
